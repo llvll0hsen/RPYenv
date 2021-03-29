@@ -1,0 +1,9 @@
+name: r_py_env
+channels:
+  - conda-forge
+dependencies:
+  - graph-tool=2.37
+  - pandas
+  - matplotlib
+  - scipy 
+  - numpy
